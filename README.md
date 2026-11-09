@@ -1,4 +1,13 @@
 # iamport-rest-client-net
+
+> [!WARNING]
+> **이 저장소는 더 이상 유지보수되지 않습니다 (Deprecated).**
+>
+> 아래 포트원 공식 문서를 참고해 주세요.
+>
+> - **포트원 V2 (권장)**: [REST API](https://developers.portone.io/api/rest-v2?v=v2) · [서버 SDK](https://developers.portone.io/sdk/ko/v2-server-sdk/readme?v=v2)
+> - **포트원 V1 (기존 아임포트)**: [V1 REST API](https://developers.portone.io/api/rest-v1?v=v1)
+
 [아임포트](http://www.iamport.kr/)는 한국 Payment Gateway(PG)사의 복잡한 구현을 간소화주는 서비스로 PG사의 UI나 플러그인을 거치지 않고 처리할 수 있는 몇 가지 기능을 REST API로 제공합니다.
 
 이 프로젝트는 [아임포트(I'mport) REST API](https://api.iamport.kr/) 클라이언트의 닷넷 구현입니다. 프로젝트 이름을 표기할 때에는 `아임포트RESTAPI닷넷`이라고 합니다.
